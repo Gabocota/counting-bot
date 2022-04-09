@@ -5,6 +5,7 @@ Good for Discord channels like this one:
 ![image](https://user-images.githubusercontent.com/88735758/162547913-234619a7-c576-43da-bb8a-187d377c0ca5.png)
 
 SETUP:
+
 Windows: 
 - Download Nodejs latest: https://nodejs.org/en/download/
 - Continue installation wizard.
@@ -30,6 +31,7 @@ Linux:
 
 
 USAGE:
+    
 - When you start the bot you have to set 3 parameters
   
 ![image](https://user-images.githubusercontent.com/88735758/162548701-3527179a-0d00-49a4-be72-73d70749e25b.png)
