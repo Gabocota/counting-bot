@@ -13,13 +13,16 @@ Windows:
 - Create a folder and put bot.js in it.
 - Open that folder in the cmd with "cd {the dir of your folder}".
 - Install dependencies: 
-    1. "npm install robotjs"
-    2. "npm install prompt-sync"
+
+            npm install robotjs
+            npm install prompt-sync
   
 - Now just run "node bot.js" to start it.
   
 Linux:
-- Install Nodejs: sudo apt update
+- Install Nodejs: 
+
+                  sudo apt update
 
                   sudo apt install nodejs
                   
