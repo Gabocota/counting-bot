@@ -52,10 +52,10 @@ USAGE:
   
 - After you press enter it will wait 3 seconds for you to tab to the window you want to write.
   
-- This bot has a auto stop in case the Discord timeout message shows up. 
+- This bot has an auto stop in case the Discord timeout message shows up. 
     
   ![image](https://user-images.githubusercontent.com/88735758/162548903-ef3cce73-1b16-49ab-bcb7-6289bb822c2d.png)
-- It takes your mouse position and sees saves the color of that pixel, then in every number it writes it checks if the color changed. I recomend putting the mouse in a place where nothing else is going to change.
+- It takes your mouse position and saves the color of that pixel, then in every number it writes it checks if the color changed. I recomend putting the mouse in a place where nothing else is going to change.
     
   ![image](https://user-images.githubusercontent.com/88735758/162548977-71aa484f-84c3-490c-b88e-1e07ef152893.png)
 - And thats it! Dont get yourself banned!
