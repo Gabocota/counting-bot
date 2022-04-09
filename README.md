@@ -31,7 +31,8 @@ Linux:
 
 USAGE:
 - When you start the bot you have to set 3 parameters
-  ![image](https://user-images.githubusercontent.com/88735758/162548701-3527179a-0d00-49a4-be72-73d70749e25b.png)
+  
+![image](https://user-images.githubusercontent.com/88735758/162548701-3527179a-0d00-49a4-be72-73d70749e25b.png)
 - Number to start will be the first number you want the bot to write. If the count you want to continue is in 130 you would set this to 131.
 - Numbers to unput is how much numbers you want it to write before it stops. This one is simple.
 - Delay you fine tune it to what you want. For Discord 500 ms is an acceptable rate.
@@ -39,7 +40,9 @@ USAGE:
 - After you press enter it will wait 3 seconds for you to tab to the window you want to write.
   
 - This bot has a auto stop in case the Discord timeout message shows up. 
+    
   ![image](https://user-images.githubusercontent.com/88735758/162548903-ef3cce73-1b16-49ab-bcb7-6289bb822c2d.png)
 - It takes your mouse position and sees if the color of that pixel has changed. I recomend putting the mouse in a place where nothing else is going to change.
+    
   ![image](https://user-images.githubusercontent.com/88735758/162548977-71aa484f-84c3-490c-b88e-1e07ef152893.png)
 - And thats it! Dont get yourself banned!
