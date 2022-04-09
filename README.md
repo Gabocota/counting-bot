@@ -11,7 +11,7 @@ Windows:
 - Continue installation wizard.
 - Check instalation with "node -v" in cmd.
 - Create a folder and put bot.js in it.
-- Open that folder in the cmd with "cd <the dir of your folder>".
+- Open that folder in the cmd with "cd {the dir of your folder}".
 - Install dependencies: 
     1. "npm install robotjs"
     2. "npm install prompt-sync"
