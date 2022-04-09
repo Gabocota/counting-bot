@@ -15,7 +15,7 @@ Windows:
 - Install dependencies: 
 
             npm install robotjs
-            
+
             npm install prompt-sync
   
 - Now just run "node bot.js" to start it.
@@ -26,16 +26,16 @@ Linux:
             sudo apt update
 
             sudo apt install nodejs
-                  
+
             sudo apt install npm
-                  
+
             nodejs -v
                   
   
 - Dependencies: 
 
             npm install robotjs
-            
+
             npm install prompt-sync
   
 - Now run: node bot.js to start the bot.
