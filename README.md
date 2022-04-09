@@ -1,6 +1,7 @@
 # counting-bot
 This bot will write on you keyboard from the number you specify up until it hits the limit you set.
 Good for Discord channels like this one:
+
 ![image](https://user-images.githubusercontent.com/88735758/162547913-234619a7-c576-43da-bb8a-187d377c0ca5.png)
 
 SETUP:
