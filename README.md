@@ -20,9 +20,13 @@ Windows:
   
 Linux:
 - Install Nodejs: sudo apt update
+
                   sudo apt install nodejs
+                  
                   sudo apt install npm
+                  
                   nodejs -v
+                  
   
 - Dependencies: npm install robotjs
                 npm install prompt-sync
